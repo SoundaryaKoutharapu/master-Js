@@ -1,4 +1,4 @@
-
+// method chaining  = calling one method after another in one continous line of code
 
 let userName = " hima  " ;
 
