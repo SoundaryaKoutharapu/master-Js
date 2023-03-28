@@ -27,4 +27,4 @@ let text = `Hello, ${name} <br>
 
          // console.log(text);
 
- document.getElementById("literals").innerHTML = text;   
+ document.getElementById("literals").innerHTML = text;
