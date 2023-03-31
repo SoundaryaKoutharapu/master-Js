@@ -41,7 +41,7 @@ function sum(...numbers)    // rest parameters take indefinite no of parameters
 
 
 function sum(x,y, ...numbers)    //  except x,y remaining sum will be displayed
-{                           
+{                                // incase of taking parameters like x,y then rest parameters placed at end               
    let sum =0;
    for(num of numbers)
    {
