@@ -12,9 +12,11 @@
 #reset
 
 {
+  
+    width: 80px;
     display: block;
     padding: 10px;
-    margin: 10px auto;
+    margin: 15px auto;
    color: rgb(135, 240, 31);
    font-weight: bolder;
    background-color: rgb(20, 100, 175);
