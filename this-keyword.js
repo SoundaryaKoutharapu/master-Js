@@ -46,8 +46,8 @@ console.log(car2.color);
 console.log(car2.release_date);
 
 // if we want to use 'this' outside of object, it refers to window propeties
-
 this.name =" Mywindow";
 console.log(this.name)
+console.log(window.name)
 
 
