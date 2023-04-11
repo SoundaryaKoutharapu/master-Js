@@ -47,13 +47,13 @@ element_3.style.background = "Red";
 
 
 // Query selector ALL
-let elements = document.querySelectorAll(".dessert");   // class 
+let elements = document.querySelectorAll(".dessert");   // class name
 elements.forEach( (element) => 
 {
 element.style.background = "Red"
 })
 
-let elements_1 = document.querySelectorAll("li");     // tag
+let elements_1 = document.querySelectorAll("li");     // tag name
 elements_1.forEach( (element) => 
 {
 element.style.background = "Red"
