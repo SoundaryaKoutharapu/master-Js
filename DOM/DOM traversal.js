@@ -16,6 +16,22 @@ children                              siblings
              </ul>
 */
 
+/* 
+    .firstElementChild
+    .lastElementChild
+    .nextElementSibling
+    .previousElementSibling
+    .ParentElement
+    .children[i];
+    .Array.from(.children)
+    
+*/
+
+
+
+
+
+
 // First Element Child
 let element = document.body;
 let child  = element.firstElementChild;
