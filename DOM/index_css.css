@@ -1,7 +1,23 @@
-div{
+#myDiv{
     background-color: lightcoral;
     width: 300px;
     height: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+#innerDiv{
+    background-color: rgb(23, 225, 77);
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+#outerDiv{
+    background-color: rgb(24, 121, 190);
+    width: 500px;
+    height: 500px;
     margin: 30px;
     text-align: center;
 }
